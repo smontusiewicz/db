@@ -1,4 +1,12 @@
 {
+  "FinancialInstruments": [
+    { "id": "AAPL", "name": "Apple Inc", "price": "136.72" },
+    { "id": "GOOGL", "name": "Alphabet Inc", "price": "2179.26" },
+    { "id": "META", "name": "Meta Platforms Inc", "price": "161.25" },
+    { "id": "AMZN", "name": "Amazon.com Inc", "price": "109.56" },
+    { "id": "TSLA", "name": "Tesla Inc", "price": "681.79" },
+    { "id": "MSFT", "name": "Microsoft Corporation", "price": "259.58" }
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
