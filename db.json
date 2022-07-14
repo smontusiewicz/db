@@ -1,8 +1,8 @@
 {
   "FinancialInstruments": [
-    { "id": "A", "name": "Apple Inc", "price": 136.72 },
+    { "id": "AAPL", "name": "Apple Inc", "price": 136.72 },
     { "id": "GOOGL", "name": "Alphabet Inc", "price": 2179.26 },
-    { "id": "M", "name": "Meta Platforms Inc", "price": 161.25 },
+    { "id": "META", "name": "Meta Platforms Inc", "price": 161.25 },
     { "id": "AMZN", "name": "Amazon.com Inc", "price": 109.56 },
     { "id": "TSLA", "name": "Tesla Inc", "price": 681.79 },
     { "id": "MSFT", "name": "Microsoft Corporation", "price": 259.58 }
